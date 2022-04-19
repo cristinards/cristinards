@@ -30,6 +30,6 @@
 ## Outros Links
 
 - :page_with_curl: Certificados Alura: https://cursos.alura.com.br/user/cristina-ramosdasilva16/fullCertificate/815caad3fe6654f2c082ca70d5bd312d
-- :page_with_curl: Digital Inovation One: https://web.dio.me/users/cristina_ramosdasilva16
+- :page_with_curl: Perfil na Digital Inovation One: https://web.dio.me/users/cristina_ramosdasilva16
 - :page_with_curl: Meu CV: https://bityli.com/GaYQlo
 
