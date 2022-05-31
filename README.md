@@ -1,17 +1,17 @@
-## Olá eu sou a Cristina 👋
+## Olá 👋, eu sou a Cristina! 👩‍💻
 
-#### Sou uma pessoa formada em Sistemas de Informação e aspirante a Cientista de dados
+### Uma pessoa formada em Sistemas de Informação e aspirante a Cientista de dados
 <hr>
 
-- 🏃‍♀️ Estou Procurando meu primeiro emprego na área de TI
-- 💻 Atualmente sou estudante de MBA em Ciência de Dados pela IGTI
-- ⚙️Uso diariamente o .pynb, .py, .csv, .md, .sql, .svg, .png, .html, .css e.json .
-- 🎯 Estou sempre estudando e aprendendo novas coisas:rofl:
-- 💙 Interesses em: Tecnologia, Animes, Games e Doguinhos 🐶
-- :bulb: Sempre aberta para novas ideias
+- 🏃‍♀️ Estou Procurando meu primeiro emprego na área de TI;
+- 💻 Atualmente sou estudante de MBA em Ciência de Dados pela IGTI;
+- ⚙️Uso diariamente o .pynb, .py, .csv, .md, .sql, .svg, .png, .html, .css e .json;
+- 🌱 Estou sempre estudando e aprendendo ferramentas novas;
+- 💙 Interesses em: Tecnologia, Animes, Games e Doguinhos 🐶;
+- :bulb: Sempre aberta para novas ideias.
 
 
-## Ferramentas e bibliotecas
+## Linguagens e Ferramentas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -44,14 +44,15 @@
 
 
 ## Contato:
-<div>
+<div style="display: inline_block">
 <a href = "mailto:cristina.ramosdasilva16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/cristina-ramos-da-silva-56bb78200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 ## Outros Links
 
-- :page_with_curl: Certificados Alura: https://cursos.alura.com.br/user/cristina-ramosdasilva16/fullCertificate/815caad3fe6654f2c082ca70d5bd312d
-- :page_with_curl: Perfil na Digital Inovation One: https://web.dio.me/users/cristina_ramosdasilva16
-- :page_with_curl: Meu Curriculo: https://bityli.com/Currículo-Cristina
+- 👨‍💻 Certificados Alura: https://cursos.alura.com.br/user/cristina-ramosdasilva16/fullCertificate/815caad3fe6654f2c082ca70d5bd312d
+- 👨‍💻 Perfil na Digital Inovation One: https://web.dio.me/users/cristina_ramosdasilva16
+- 📝 Meu Curriculo: https://bityli.com/Currículo-Cristina
 
 
