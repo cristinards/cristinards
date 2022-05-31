@@ -1,12 +1,14 @@
-## Cristina Ramos [Uma aspirante a Cientista de dados] 👋
-#### Olá, sou uma pessoa amante de Tecnologia e entusiasta de dados
+## Olá eu sou a Cristina 👋
+
+#### Sou uma pessoa formada em Sistemas de Informação e aspirante a Cientista de dados
 <hr>
 
-- 🏃‍♀️ Procurando meu primeiro emprego na área de TI
-- 💻 Atualmente fazendo MBA em Ciência de Dados pela IGTI
-- :chart_with_upwards_trend: Estou sempre procurando melhorar minhas habilidades :rofl:
-- :books: Buscando continuamente novos conhecimentos e ferramentas
-- :bulb: Sempre aberta para novas ideias e sugestões
+- 🏃‍♀️ Estou Procurando meu primeiro emprego na área de TI
+- 💻 Atualmente sou estudante de MBA em Ciência de Dados pela IGTI
+- ⚙️Uso diariamente o .pynb, .py, .csv, .md, .sql,.svg, .png, .html, .css e.json .
+- 🎯 Estou sempre estudando e aprendendo mais :rofl:
+- 💙 Interesses em: Tecnologia, Animes, Games e Doguinhos 🐶
+- :bulb: Sempre aberta para novas ideias
 
 
 ## Ferramentas e bibliotecas
