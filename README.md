@@ -5,8 +5,8 @@
 
 - 🏃‍♀️ Estou Procurando meu primeiro emprego na área de TI
 - 💻 Atualmente sou estudante de MBA em Ciência de Dados pela IGTI
-- ⚙️Uso diariamente o .pynb, .py, .csv, .md, .sql,.svg, .png, .html, .css e.json .
-- 🎯 Estou sempre estudando e aprendendo mais :rofl:
+- ⚙️Uso diariamente o .pynb, .py, .csv, .md, .sql, .svg, .png, .html, .css e.json .
+- 🎯 Estou sempre estudando e aprendendo novas coisas:rofl:
 - 💙 Interesses em: Tecnologia, Animes, Games e Doguinhos 🐶
 - :bulb: Sempre aberta para novas ideias
 
