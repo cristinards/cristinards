@@ -4,7 +4,7 @@
 <hr>
 
 - 🏃‍♀️ Estou Procurando meu primeiro emprego na área de TI;
-- 💻 Atualmente sou estudante de MBA em Ciência de Dados pela IGTI;
+- 💻 Atualmente sou estudante de MBA em Ciência de Dados pela XPE;
 - ⚙️Uso diariamente o .pynb, .py, .csv, .md, .sql, .svg, .png, .html, .css e .json;
 - 🌱 Estou sempre estudando e aprendendo ferramentas novas;
 - 💙 Interesses em: Tecnologia, Animes, Games e Doguinhos 🐶;
